@@ -1,0 +1,9 @@
+infixr 1 <|>
+infixl 1 >>
+infixl 1 >>=
+infixl 4 <% (* FIXME: rename to <$ *)
+infixl 4 %> (* FIXME: rename to $> *)
+infixl 4 <%> (* FIXME: rename to <$> *)
+infixl 4 <*
+infixl 4 *>
+infix 0 <?>
