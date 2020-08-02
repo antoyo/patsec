@@ -1,0 +1,7 @@
+[project]
+name = "patsec"
+version = "0.0.2"
+
+[dependencies.atstd]
+git = "git@framagit.org:antoyo/atstd.git"
+version = "0.0.1"
